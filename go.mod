@@ -1,4 +1,4 @@
-module github.com/ulule/limiter/v3
+module github.com/npereira97/limiter
 
 go 1.17
 
